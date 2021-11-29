@@ -1,4 +1,4 @@
-[![SoonLabs](https://badgen.net/discord/members/5RVhemRU)](https://discord.gg/eYy9Ru9qRd)
+[![SoonLabs](https://badgen.net/discord/online-members/eYy9Ru9qRd)](https://discord.gg/eYy9Ru9qRd)
 
 # About
 The Soonaverse is a decentralized platform for communities, enabling the seamless creation, management, and interoperability of DAOs.
