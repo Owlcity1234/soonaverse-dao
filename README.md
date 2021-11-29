@@ -20,5 +20,5 @@ _See [Litepaper](https://discord.com/channels/892481940953915433/914746259762446
 
 **Additional Reference Material**
 
-- [Soonaverse ELI5](https://docs.google.com/document/d/107AWznbIIz1CwsqRO2Jwj5vmqVdj_2g-eavnmCeTvd8) - A overview of the concepts for the Soonaverse
+- [Soonaverse ELI5](https://docs.google.com/document/d/1sxKHKCEnAbRMSQV7LQxBdc8B1CTtwxx75GOc5KnLvBw) - A overview of the concepts for the Soonaverse
 - [Alpha Tester Onboarding](https://discord.com/channels/892481940953915433/914746259762446336/914770627158749205) - What you need to know to become an alpha tester
