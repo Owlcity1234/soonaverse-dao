@@ -17,7 +17,7 @@ DAO-on-Demand (DoD) enables the “one-click” setup of DAOs and provides compo
 - Discussion Forum
 - Treasury Management
   
-**Additional Reference Material _\*\*Please Read These First\*\*_**
+## Additional Reference Material _\*\*Please Read These First\*\*_
 
 1. [Soonaverse ELI5](https://docs.google.com/document/d/1sxKHKCEnAbRMSQV7LQxBdc8B1CTtwxx75GOc5KnLvBw) - A overview of the concepts for the Soonaverse
 2. [Alpha Tester Onboarding](https://docs.google.com/document/d/1GEywY6gnl2Hr2SzeXv6KBAth9qDvkELZUu9oRSc6XcE/edit) - What you need to know to become an alpha tester
