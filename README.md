@@ -22,4 +22,4 @@ DAO-on-Demand (DoD) enables the “one-click” setup of DAOs and provides compo
 1. [Soonaverse ELI5](https://docs.google.com/document/d/1sxKHKCEnAbRMSQV7LQxBdc8B1CTtwxx75GOc5KnLvBw) - A overview of the concepts for the Soonaverse
 2. [Alpha Tester Onboarding](https://docs.google.com/document/d/1GEywY6gnl2Hr2SzeXv6KBAth9qDvkELZUu9oRSc6XcE/edit) - What you need to know to become an alpha tester
 3. [Soonaverse Litepaper](https://docs.google.com/document/d/107AWznbIIz1CwsqRO2Jwj5vmqVdj_2g-eavnmCeTvd8) - Our vision for the full Soonaverse 
-3. [Soonaverse Manifesto](MANIFESTO.md) - The SoonLabs Manifesto
+3. [SoonLabs Manifesto](MANIFESTO.md) - The SoonLabs Manifesto
