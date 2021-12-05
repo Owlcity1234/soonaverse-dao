@@ -1,6 +1,6 @@
 # The SoonLabs Manifesto
 
-SoonLabs is a collaboration between dedicated professionals, skilled in navigating the constant tension between invention and production to find ways to create, build, and get things done. We have different backgrounds, skills, and experiences, but share a singular goal, a shared vision, a common mantra - **_together we can build the impossible. _**
+SoonLabs is a collaboration between dedicated professionals, skilled in navigating the constant tension between invention and production to find ways to create, build, and get things done. We have different backgrounds, skills, and experiences, but share a singular goal, a shared vision, a common mantra - together we can build the impossible.
 
 Our current “impossible” is <span style="text-decoration:underline;">building a more equitable world through decentralization</span>. A world where centralized systems have NOT concentrated society’s influence, power and wealth into the hands of an infinitesimally small number of individuals and organizations. 
 
