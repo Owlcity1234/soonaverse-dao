@@ -47,9 +47,9 @@ And then ask us WHEN. No, ask us WEN and we will say SOON, because THAT is alway
 
 #### Founding Principles
 
-1. "DeFi must be **UNDERSTANDABLE** and **AVAILABLE **to all."
-2. “The opportunities of DeFi are vast and must be shared **EQUALLY**.”
-3. “DeFi has the power to **TRANSFORM** lives and industries.”
+1. "DeFi must be UNDERSTANDABLE and AVAILABLE to all."
+2. “The opportunities of DeFi are vast and must be shared EQUALLY.”
+3. “DeFi has the power to TRANSFORM lives and industries.”
 
 #### Commitments
 
