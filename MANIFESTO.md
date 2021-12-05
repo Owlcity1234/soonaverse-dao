@@ -12,7 +12,7 @@ We believe that privacy isn’t just a cloak, it's a shield, and an anonymous vo
 
 Your voice matters and NO ONE should demand a fee for expressing your opinion, no one should force you to pay to exercise your right to vote, decentralization must be an enabler not a wall. 
 
-Our DAOs will bring the change the world needs, by spreading the power of every decision across 7.7 billion points of humanity, where everyone's an influencer, because everyone has influence**. **
+Our DAOs will bring the change the world needs, by spreading the power of every decision across 7.7 billion points of humanity, where everyone's an influencer, because everyone has influence.
 
 Ask WHO we need. We’ll say, YOU. 
 
@@ -28,9 +28,9 @@ And then ask us WHEN. No, ask us WEN and we will say SOON, because THAT is alway
 
 #### Founding Principles
 
-1. "All Voting Should be FREE and Securely ON-Chain"
-2. “**DAOs** must have immutable **TRUST** and **REPUTATION**.” 
-3. “An anonymous voice is **STILL A VOICE** and members must be **HEARD**”
+1. "All Voting MUST be FREE and Securely ON-Chain"
+2. “DAOs must have immutable TRUST and REPUTATION” 
+3. “An anonymous voice is STILL A VOICE and members must be HEARD”
 
 #### Commitments
 
